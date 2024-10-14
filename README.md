@@ -1,5 +1,3 @@
-# pandas-challenge
-# Module 4 Challenge
 # PyCity Schools Analysis
 
 # Objective
